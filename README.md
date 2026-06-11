@@ -40,6 +40,3 @@ Constraint Check: Add an internal conditional check to ensure that clicking decr
 Ensure no obvious runtime crashes occur during interactions.
 
 Those who are having android mobile must run it in the mobile in development mode. Those having iphone may run in emulator of android studio.
-
-Class comments
-Your
