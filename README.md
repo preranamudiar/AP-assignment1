@@ -1,4 +1,4 @@
-# AP aaignment 18
+# AP assignment 18
 
 ##question : Generally, handling external files is a common source of runtime errors. Files might be missing, or they might contain corrupted data. For this assignment, you will create a simple data utility class that reads an integer value from a text file, performs a calculation, and ensures all system resources are properly closed afterward—even if something goes wrong.
 
